@@ -1,0 +1,14 @@
+# a10sxx-user 11 RP1A.200720.012 A107FXXS8CWD3 release-keys
+- manufacturer: samsung
+- platform: mt6765
+- codename: a10s
+- flavor: a10sxx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A107FXXS8CWD3
+- tags: release-keys
+- fingerprint: samsung/a10sxx/a10s:11/RP1A.200720.012/A107FXXS8CWD3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a10sxx-user-11-RP1A.200720.012-A107FXXS8CWD3-release-keys
+- repo: samsung_a10s_dump
